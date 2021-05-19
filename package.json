@@ -1,4 +1,11 @@
 {
+  "name": "bluebell-contracts",
+  "version": "0.1.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluebell-life/bluebell-contracts.git"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.1.0",
     "@truffle/hdwallet-provider": "^1.4.0",
@@ -10,5 +17,6 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^3.0.0"
-  }
+  },
+  "license": "GPL-3.0"
 }
